@@ -1,0 +1,16 @@
+---
+title: "SORTEE: Introduction to Git and GitHub"
+subtitle: "Workshop materials for SORTEE 2021"
+author: "David Wilkinson"
+date: "`r Sys.Date()`"
+output: bookdown::gitbook
+css: lodestar.css
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: Doi90/SORTEE_git_intro
+---
+
+# Workshop materials for SORTEE 2021
+
